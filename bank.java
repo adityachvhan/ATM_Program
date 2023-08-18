@@ -1,0 +1,8 @@
+class bank extends ATM 
+{
+	public static void main(String[] args) 
+	{
+		ATM var=new ATM();
+		var.CheckPin();
+	}
+}
